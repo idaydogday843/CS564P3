@@ -164,6 +164,3 @@ To evaluate submissions, we will run your code repeatedly and compute the mean l
 ## Deliverables
 
 Submit a zipped archive (`.zip`) of the top-level project directory to Canvas. Do not include build files in your submission. There should only be one submission per group. Points may be deducted if you do not follow these instructions.
-#   C S 5 6 4 P 3  
- #   C S 5 6 4 P 3  
- 
