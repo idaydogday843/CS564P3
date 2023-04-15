@@ -1,0 +1,59 @@
+Start testing: Apr 15 09:55 中部夏令时
+----------------------------------------------------------
+1/2 Testing: test_file
+1/2 Test: test_file
+Command: "C:/Users/Angus Wang/Desktop/project-3/build/Debug/test_file.exe"
+Directory: C:/Users/Angus Wang/Desktop/project-3/build
+"test_file" start time: Apr 15 09:55 中部夏令时
+Output:
+----------------------------------------------------------
+fileWriteRead passed.
+fileWriteReadOffset passed.
+fileWriteReadMultiple passed.
+fileNumReadsWrites passed.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test_file" end time: Apr 15 09:55 中部夏令时
+"test_file" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_join
+2/2 Test: test_join
+Command: "C:/Users/Angus Wang/Desktop/project-3/build/Debug/test_join.exe"
+Directory: C:/Users/Angus Wang/Desktop/project-3/build
+"test_join" start time: Apr 15 09:55 中部夏令时
+Output:
+----------------------------------------------------------
+testJoinGetAlgorithm failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:18: not implemented: getJoinAlgorithm
+testCorrectness1 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:103: incorrect result
+testCorrectness2 passed.
+testCorrectness3 passed.
+testCorrectness4 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:103: incorrect result
+testCorrectness5 passed.
+testCorrectness6 passed.
+testIO1 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:103: incorrect result
+testIO2 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:114: not implemented: getJoinAlgorithm
+testIO3 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:114: not implemented: getJoinAlgorithm
+testIO4 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:103: incorrect result
+testIO5 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:114: not implemented: getJoinAlgorithm
+testIO6 failed.
+	C:\Users\Angus Wang\Desktop\project-3\src\test\test_join.cpp:114: not implemented: getJoinAlgorithm
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Failed.
+"test_join" end time: Apr 15 09:55 中部夏令时
+"test_join" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 15 09:55 中部夏令时
