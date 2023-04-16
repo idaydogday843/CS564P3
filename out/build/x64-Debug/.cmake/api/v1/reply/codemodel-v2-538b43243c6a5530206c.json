@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cs564_project_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "join::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-join-Debug-52d0c287bc79b21a65ca.json",
+					"name" : "join",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_file-Debug-958e5abc2023ae22bb1d.json",
+					"name" : "test_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_join::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_join-Debug-638f238d6820292cf604.json",
+					"name" : "test_join",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Angus Wang/Desktop/project-3/out/build/x64-Debug",
+		"source" : "C:/Users/Angus Wang/Desktop/project-3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

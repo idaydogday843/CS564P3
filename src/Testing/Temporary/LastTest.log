@@ -1,0 +1,19 @@
+Start testing: Apr 15 15:06 中部夏令时
+----------------------------------------------------------
+2/2 Testing: test_join
+2/2 Test: test_join
+Command: "C:/Users/Angus Wang/Desktop/project-3/src/Debug/test_join.exe"
+Directory: C:/Users/Angus Wang/Desktop/project-3/src
+"test_join" start time: Apr 15 15:06 中部夏令时
+Output:
+----------------------------------------------------------
+testJoinGetAlgorithm passed.
+<end of output>
+Test time =   1.46 sec
+----------------------------------------------------------
+Test Failed.
+"test_join" end time: Apr 15 15:06 中部夏令时
+"test_join" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Apr 15 15:06 中部夏令时

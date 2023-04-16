@@ -1,0 +1,10 @@
+^C:\USERS\ANGUS WANG\DESKTOP\PROJECT-3\SRC\CMAKEFILES\100C3B32D0FBBF7A2A9C8E2BD0B07259\GENERATE.STAMP.RULE
+setlocal
+D:\mingw64\bin\cmake.exe "-SC:/Users/Angus Wang/Desktop/project-3" "-BC:/Users/Angus Wang/Desktop/project-3/src" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Angus Wang/Desktop/project-3/src/cs564_project_3.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,21 @@
+Start testing: Apr 15 15:09 中部夏令时
+----------------------------------------------------------
+1/2 Testing: test_file
+1/2 Test: test_file
+Command: "C:/Users/Angus Wang/Desktop/project-3/src/Debug/test_file.exe"
+Directory: C:/Users/Angus Wang/Desktop/project-3/src
+"test_file" start time: Apr 15 15:09 中部夏令时
+Output:
+----------------------------------------------------------
+fileWriteRead passed.
+fileWriteReadOffset passed.
+fileWriteReadMultiple passed.
+fileNumReadsWrites passed.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_file" end time: Apr 15 15:09 中部夏令时
+"test_file" time elapsed: 00:00:00
+----------------------------------------------------------
+
